@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6efe1660661903840aa457bedac84fa4, type: 3}
   m_Name: New Question 1
   m_EditorClassIdentifier: 
-  question: Enter new question text here!
+  question: Who live on sea's bottom?
+  answers:
+  - Spanch Bob
+  - Pepa
+  - Chip
+  - Deil
+  correctAnswerIndex: 0
