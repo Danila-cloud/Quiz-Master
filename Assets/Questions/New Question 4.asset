@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: int is
   answers:
-  - 
-  - 
-  - 
-  - 
+  - count
+  - word
+  - array
+  - language
   correctAnswerIndex: 0

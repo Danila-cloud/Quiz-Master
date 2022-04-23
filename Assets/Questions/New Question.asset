@@ -15,7 +15,7 @@ MonoBehaviour:
   question: Which day is today?
   answers:
   - Sunday
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Monday
+  - Tuesday
+  - Wednesday
+  correctAnswerIndex: 1

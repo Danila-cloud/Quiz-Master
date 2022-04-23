@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: 2+2=
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - 5
+  - 6
+  - 4
+  - 1
+  correctAnswerIndex: 2
